@@ -46,6 +46,15 @@ html {
     cursor: pointer;
 }
 
+.content{
+    color: rgb(16, 207, 144);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:17px;
+    font-weight: 300;
+    border:"3px solid #73AD21";
+    text-align: center
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1600px) {
 
